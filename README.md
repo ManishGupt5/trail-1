@@ -1,2 +1,2 @@
-# Firsttry-1
+# First try-1
 This is my first repo.
